@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Samuelameningayeh
-- 👀 I’m interested in Data Analystics, Data Science, Statistics and web development
+- 👀 I’m interested in Data analysis, Data Science, Statistics, web development and Cloud computing
 - 🌱 I’m a Statistics graduate from Kwame Nkrumah University of Science and Technology, Ghana
 - 💞️ I’m looking to collaborate on Data Analystics, Data Science, Statistics and software development
 - 📫 How to reach me on LinkedIn :
